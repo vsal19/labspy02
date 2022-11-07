@@ -24,9 +24,9 @@ NIM: 312210322
 
 ![labspy02- Faisal - 4](https://user-images.githubusercontent.com/115516624/200342192-4b4c5818-287c-4446-94c3-dee5c9591412.png)
 
-5. nah cara tadi adalah cara menghitung input tiga buah bilangan, serta menampilkan bilangan terbesarnya
+5. nah cara tadi adalah cara menghitung input "2 BUAH BILANGAN", serta menampilkan bilangan terbesarnya
 
-6. dari cara tadi, Kalau terdapat 3 BILANGAN dapat dikembangkan menjadi seperti ini:
+6. dari cara tadi, Kalau terdapaT "3 BUAH BILANGAN" dapat dikembangkan menjadi seperti ini:
 
 ![labspy02- Faisal - 5](https://user-images.githubusercontent.com/115516624/200343083-e5ac52b2-85d5-40c2-b129-f0e9162be259.png)
 
