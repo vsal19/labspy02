@@ -5,13 +5,14 @@
 Membuat program sederhana dengan input tiga buah bilangan, serta menampilkan bilangan terbesarnya
 
 Nama: Muhamad Faisal Ilham
+
 NIM: 312210322
 
 1. langkah pertama membuat fungsi main() agar kode nudah dipelihara dan reusable formatnya seperti ini:
 
 ![labspy02- Faisal - 1](https://user-images.githubusercontent.com/115516624/200339647-211fbd08-dbbf-4170-883e-0ab7836bea82.png)
 
-2. kita membutuhkan 3 variabel dalam kasus ini adalah ‘a‘, ‘b‘, ‘maks‘ untuk menampung nilai yang akan diinput oleh user lalu input yang tadinya string di konversi ke integer menggunakan fungsi build-in int()![labspy02- Faisal - 3](https://user-images.githubusercontent.com/115516624/200340478-9b080ffb-07b1-45fe-9e78-e81847150cc7.png)
+2. kita membutuhkan 3 variabel dalam kasus ini adalah ‘a‘, ‘b‘, ‘maks‘ untuk menampung nilai yang akan diinput oleh user lalu input yang tadinya string di konversi ke integer menggunakan fungsi build-in int()
 
 ![labspy02- Faisal - 2](https://user-images.githubusercontent.com/115516624/200340663-c4df516c-65e1-4aab-87c9-ad700c99efcb.png)
 
