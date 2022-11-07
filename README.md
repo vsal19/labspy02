@@ -1,6 +1,6 @@
-#labspy02
+# labspy02
 
-#Tugas Praktikum 2
+# Tugas Praktikum 2
 
 Membuat program sederhana dengan input tiga buah bilangan, serta menampilkan bilangan terbesarnya
 
