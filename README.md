@@ -1,4 +1,4 @@
-# labspy02 & labspy03
+# labspy02
 
 #Tugas Praktikum 2
 
